@@ -1,0 +1,19 @@
+.logo {
+    height: 50px; /* Adjust the height as needed */
+    width: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Add spacing between logo and text */
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    flex-grow: 1;
+}
